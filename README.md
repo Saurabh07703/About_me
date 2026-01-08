@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/saurabh703/" target="_blank"><img align="center" src="https://github.com/Saurabh07703/Saurabh07703/blob/main/linked_logo.svg" alt="Saurabh Tiwari" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/deepesh.meena.353?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/deepesh.meena.353?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/deepesh._.meena?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/deepesh._.meena?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012300155785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012300155785" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lone_wolf_07703/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lone_wolf_07703/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurabh07703&show_icons=true&locale=en&layout=compact" alt="Saurabh07703" /></p>
+<p><img align="left" src="https://nl-sql-streamlit.onrender.com" alt="nl-sql-streamlit-app" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh07703&show_icons=true&locale=en" alt="Saurabh07703" /></p>
+<p>&nbsp;<img align="center" src="https://hr-chatbot-interface.vercel.app/" alt="hr-chatbot-interface-app" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh07703&" alt="Saurabh07703" /></p>
+<p><img align="center" src="https://face-recog-react.vercel.app/" alt="face-recog-app" /></p>
